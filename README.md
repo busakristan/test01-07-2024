@@ -2,3 +2,4 @@
 this is july file
 
 #include<stdio.h> // this is c header file
+int main() // main function 
